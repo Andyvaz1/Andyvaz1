@@ -32,7 +32,7 @@ I welcome any contributions or suggestions to improve the projects in this repos
 <p align="left">
 </p>
 
-- 📫 How to reach me :
+## How to reach me 📫
 - 📧  **andvazquez92@gmail.com**
 - <p align="left"> <a href="https://www.linkedin.com/in/andres-vazquez-developer" target="_blank" rel="noreferrer"> <img src="https://icongr.am/devicon/linkedin-original.svg" alt="bootstrap" width="40" height="40"/> </a> </p>
 
