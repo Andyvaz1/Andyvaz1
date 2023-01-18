@@ -12,9 +12,9 @@ Hi 👋 ! My name is Andy Vazquez and I am a Full Stack Web Developer 💻 with 
 
 This repository contains a collection of my full stack web development projects, including:
 
-- PI_Pokemon: A web application that allows users to create and search Pokemons localy and using external APIs, allowing search, filtering and order results.
+- <a href="https://github.com/Andyvaz1/PI_Pokemon" target="_blank" rel="noreferrer"> PI_Pokemon</a>: A web application that allows users to create and search Pokemons localy and using external APIs, allowing search, filtering and order results.
 
-- henry_intruments: An  e-commerce website for a fictional music store. Built with HTML/CSS, JavaScript, Node.js, React and a PostgreSQL database.
+- <a href="https://github.com/Andyvaz1/henry_instruments" target="_blank" rel="noreferrer"> henry_intruments </a>: An  e-commerce website for a fictional music store. Built with HTML/CSS, JavaScript, Node.js, React and a PostgreSQL database.
 Also contians an Admin Dashboard App to manage and edit the store!
 
 ### Installation 🛠
