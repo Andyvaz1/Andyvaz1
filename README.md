@@ -4,7 +4,7 @@
 
 🌐 **Portfolio:** [andyvazquez.dev](https://andyvazquez.dev/en) · 💼 [LinkedIn](https://www.linkedin.com/in/andres-vazquez-developer) · 📫 [andyvazquezdev@gmail.com](mailto:andyvazquezdev@gmail.com)
 
-> 🇪🇸 Desarrollador Full Stack bilingüe en Buenos Aires. Llevo proyectos web de la idea a producción con React, Next.js y TypeScript. Portfolio en español: [andyvazquez.dev/es](https://andyvazquez.dev/es)
+> 🇦🇷 Desarrollador Full Stack bilingüe en Buenos Aires. Llevo proyectos web de la idea a producción con React, Next.js y TypeScript. Portfolio en español: [andyvazquez.dev/es](https://andyvazquez.dev/es)
 
 ---
 
