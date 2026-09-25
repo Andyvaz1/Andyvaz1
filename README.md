@@ -1,41 +1,44 @@
-# Welcome to my GitHub Profile 🐱! 
+# Hi, I'm Andy Vazquez 👋
 
-## About Me 🙋‍♂️
-Hi 👋 ! My name is Andy Vazquez and I am a Full Stack Web Developer 💻 with a passion for creating elegant and efficient solutions. Skilled in HTML, CSS, JavaScript, and various web development frameworks. Seeking a first technology job to apply my knowledge and abilities to real-world projects. Proficient in Agile methodologies and eager to learn new technologies. Strong problem-solving skills, ability to work well in a team, and excellent communication and interpersonal skills. Excited to contribute to the development of cutting-edge web applications. With experience in Wholesale and Retail industry, I understand the importance of a seamless customer experience and efficient operations. I am excited to bring that understanding, my web development skills and my ability to build strong relationships to a new role in the technology industry.
+**Full Stack Developer** in Buenos Aires, Argentina 🇦🇷. I build fast, polished web apps with **React, Next.js and TypeScript**, and take them from idea to production.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
+🌐 **Portfolio:** [andyvazquez.dev](https://andyvazquez.dev/en) · 💼 [LinkedIn](https://www.linkedin.com/in/andres-vazquez-developer) · 📫 [andyvazquezdev@gmail.com](mailto:andyvazquezdev@gmail.com)
 
+> 🇪🇸 Desarrollador Full Stack bilingüe en Buenos Aires. Llevo proyectos web de la idea a producción con React, Next.js y TypeScript. Portfolio en español: [andyvazquez.dev/es](https://andyvazquez.dev/es)
 
-## Projects 📁
+---
 
+### What I do
 
-This repository contains a collection of my full stack web development projects, including:
+- ⚡ **Frontend first:** interfaces that feel good to use, with motion, accessibility and Core Web Vitals in mind
+- 🧩 **End to end:** APIs, auth, databases and deploys, not just the UI
+- 🧭 **Lead projects:** I've led development and product decisions directly with clients
+- 🌎 **Bilingual:** native Spanish, fluent English. Open to remote work and relocation
 
-- <a href="https://github.com/Andyvaz1/PI_Pokemon" target="_blank" rel="noreferrer"> PI_Pokemon</a>: A web application that allows users to create and search Pokemons localy and using external APIs, allowing search, filtering and order results.
+### Stack
 
-- <a href="https://github.com/Andyvaz1/henry_instruments" target="_blank" rel="noreferrer"> henry_intruments </a>: An  e-commerce website for a fictional music store. Built with HTML/CSS, JavaScript, Node.js, React and a PostgreSQL database.
-Also contians an Admin Dashboard App to manage and edit the store!
+[![Stack](https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,nodejs,express,prisma,postgres,vercel,git,github&perline=12)](https://andyvazquez.dev/en)
 
-### Installation 🛠
+### Selected work
 
-To run any of the projects in this repository, you will need to have Node.js and npm (or yarn) installed on your machine. Once you have cloned the repository, navigate to the project's directory in your terminal and run the command npm install (or yarn install) to install all necessary dependencies.
+| Project | What I built | Stack |
+|---|---|---|
+| [Desarrollo Sur](https://andyvazquez.dev/en/projects/desarrollosur) | Urban advisory platform with a credits system, admin panel, auth and content management | Next.js · TypeScript · Prisma · PostgreSQL · NextAuth |
+| [Grupo DAP](https://andyvazquez.dev/en/projects/grupodap) | Web app and product management for Argentina's leading blinds and pergolas manufacturer | Next.js · TypeScript · Prisma · PostgreSQL |
+| [Odontología Juramento](https://andyvazquez.dev/en/projects/odontologiajuramento) | Dental office management system: clinical history, appointments, Google Calendar integration | Next.js · Prisma · PostgreSQL · Google Calendar API |
+| [Nicolás Taccone PhD](https://andyvazquez.dev/en/projects/nicolastaccone) | Professional profile site for a Political Science PhD | Next.js · TypeScript · Tailwind |
+| [Arcadia El Caracol](https://andyvazquez.dev/en/projects/arcadia) | Landing page and backend with automated mailing for a real estate project in Uruguay | Next.js · React · TypeScript · Nodemailer |
 
-### Usage 👍
-Each project will have a different usage instructions, please check the specific README.md file in the project folder.
+➡️ Case studies for each project are on [andyvazquez.dev](https://andyvazquez.dev/en).
 
-## Contribution
-I welcome any contributions or suggestions to improve the projects in this repository. Feel free to fork the repository and submit a pull request.
+### Recent experience
 
+- **WPP Production:** Freelance Front End Developer (2025–2026). Frontend for the website of one of the world's leading tech companies
+- **Grupo DAP:** Lead Developer (2025)
+- **Freelance:** Full Stack Developer for clients in Argentina and Uruguay (2023–present)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+---
+
+<p align="center">
+  <a href="https://andyvazquez.dev/en"><b>andyvazquez.dev</b></a> · Let's work together
 </p>
-
-## How to reach me 📫
-- 📧  **andvazquez92@gmail.com**
-- <p align="left"> <a href="https://www.linkedin.com/in/andres-vazquez-developer" target="_blank" rel="noreferrer"> <img src="https://icongr.am/devicon/linkedin-original.svg" alt="bootstrap" width="40" height="40"/> </a> </p>
-
-
-
--------------
